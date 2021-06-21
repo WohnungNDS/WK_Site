@@ -14,7 +14,7 @@
 baseurl: ""
 environment: production
 # Replace my-github-org and open-sdg-data-starter as needed.
-remote_data_prefix: "https://wohnungNDS.github.io/WK_Data"
+remote_data_prefix: "https://wohnen.github.io/WK_Data_prod"
 
 analytics:
   # For production, you likely want to enter a Google Analytics code below.
